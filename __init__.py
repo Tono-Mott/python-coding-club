@@ -6,9 +6,9 @@ if B_VAR > A_VAR:
 else:
     print("No A is Less than B")
 
-PULLING__TEST = 1
+PULLING_TEST = 1
 
-if  PULLINT_TEST = 1:
-    "Yes, Pulled"
+if  PULLING_TEST == 1:
+    print("Yes, Pulled")
 else:
-    "No :("
+    print("No :(")
